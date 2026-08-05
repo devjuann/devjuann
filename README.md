@@ -4,3 +4,9 @@
   </a>
 </p>
 
+<div align="center">
+  
+🔭 Eu sou desenvolvedor Back-end e atualmente trabalho com Java
+
+😄 Pronomes: Ele/Dele
+</div>
